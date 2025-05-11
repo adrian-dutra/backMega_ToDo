@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "mega-todo",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
