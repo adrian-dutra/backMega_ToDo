@@ -84,7 +84,7 @@ Use o token com o header:
 #### Criar tarefa
 
 ```bash
-curl -X POST http://localhost:3000/api/task/create -H "Content-Type: application/json" -H "Authorization: Bearer SEU_TOKEN" -d '{"title": "Estudar", "description": "Praticar Node.js", "dueDate": "2025-06-05T23:59:59.000Z"}'
+curl -X POST http://localhost:3000/api/task/create -H "Content-Type: application/json" -H "Authorization: Bearer SEU_TOKEN" -d '{"title": "Estudar", "description": "Praticar Node.js", "dueDate": "2025-06-05T23:59:59.000Z", "priority": 3}'
 ```
 
 #### Listar tarefas
@@ -144,7 +144,3 @@ src/
 - TypeScript
 
 ---
-
-## 💬 Dúvidas ou contribuições?
-
-Abra uma issue ou pull request!
