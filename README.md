@@ -1,6 +1,6 @@
 # 📋 Mega To-Do Backend
 
-Este é o backend do projeto **Mega To-Do**, feito em Node.js + Express com autenticação JWT e banco de dados via Prisma + PostgreSQL (ou outro banco suportado).
+Este é o backend do projeto **Mega To-Do**, feito em Node.js + Express com autenticação JWT e banco de dados via Prisma + PostgreSQL.
 
 ## ✅ Funcionalidades
 
